@@ -1,6 +1,3 @@
-# disruptivesolutions
+# DisruptiveSolutions
 
-
-<div align="center">
-<img src="" />
-</div>
+<div align="center"> <img src="logo.png" /> </div>
